@@ -1,0 +1,54 @@
+[
+    [
+        {
+            "id": 1,
+            "cover": "https://example.com/images/cover1.jpg",
+            "title": "Exploring the Wonders of the Universe",
+            "author": "Jane Doe",
+            "author_Img": "https://example.com/images/author1.jpg",
+            "post_date": "2024-05-01",
+            "reading_time": "8 min read",
+            "hashtags": "#astronomy, #science, #universe"
+        },
+        {
+            "id": 2,
+            "cover": "https://example.com/images/cover2.jpg",
+            "title": "Mastering JavaScript: Tips and Tricks",
+            "author": "John Smith",
+            "author_Img": "https://example.com/images/author2.jpg",
+            "post_date": "2024-04-15",
+            "reading_time": "10 min read",
+            "hashtags": "#javascript, #programming, #webdev"
+        },
+        {
+            "id": 3,
+            "cover": "https://example.com/images/cover3.jpg",
+            "title": "A Journey Through Time: Historical Landmarks",
+            "author": "Emily Johnson",
+            "author_Img": "https://example.com/images/author3.jpg",
+            "post_date": "2024-03-22",
+            "reading_time": "6 min read",
+            "hashtags": "#history, #travel, #landmarks"
+        },
+        {
+            "id": 4,
+            "cover": "https://example.com/images/cover4.jpg",
+            "title": "Healthy Eating: Delicious Recipes for a Balanced Diet",
+            "author": "Michael Lee",
+            "author_Img": "https://example.com/images/author4.jpg",
+            "post_date": "2024-02-28",
+            "reading_time": "12 min read",
+            "hashtags": "#health, #nutrition, #recipes"
+        },
+        {
+            "id": 5,
+            "cover": "https://example.com/images/cover5.jpg",
+            "title": "The Art of Mindfulness: Techniques for Everyday Life",
+            "author": "Sarah Davis",
+            "author_Img": "https://example.com/images/author5.jpg",
+            "post_date": "2024-01-15",
+            "reading_time": "5 min read",
+            "hashtags": "#mindfulness, #wellbeing, #meditation"
+        }
+    ]
+]
